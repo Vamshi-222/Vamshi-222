@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💖 Vamshi Sakinala
+# 💖 Sakinala Vamshi 
 
 > I don’t just analyze data — I connect with it.
 
