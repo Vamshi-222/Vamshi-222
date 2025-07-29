@@ -1,41 +1,43 @@
 ## Hi there 👋
 
-# 💞 Vamshi Sakinala
+# 💖 Vamshi Sakinala
 
-> Loved. Lost. Still coding.
+> I don’t just analyze data — I connect with it.
 
-🖤 Not everything broken needs fixing — some things just evolve.  
-💻 Code is quiet, like me — but it never leaves.  
-🌒 Midnight thoughts. Black screens. Empty texts.  
-🔥 I don’t smile much lately — but I build.  
-📍 India 🇮🇳 | Rebuilding in silence, one repo at a time
+📊 My dashboards speak emotions, not just numbers.  
+💌 Every dataset has a heartbeat — I just help it express.  
+🎶 Music guides my flow, while queries guide my focus.  
+🧠 Clean data, calm mind. Clear visuals, deeper meaning.  
+❤️ I don’t just look for trends — I look for truth.  
+📍 From India 🇮🇳 | Turning raw data into soulful stories ✨
 
 ---
 
-### 🧰 Tech I’m Using  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)  
-![Power BI](https://img.shields.io/badge/-PowerBI-000?style=flat&logo=powerbi)  
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)  
-![Excel](https://img.shields.io/badge/-Excel-000?style=flat&logo=microsoft-excel)
+### 🧰 Tools I Use  
+![Excel](https://img.shields.io/badge/-Excel-c2f0fc?style=flat&logo=microsoft-excel)  
+![Power BI](https://img.shields.io/badge/-PowerBI-fec8d8?style=flat&logo=powerbi)  
+![MySQL](https://img.shields.io/badge/-MySQL-fcc2e2?style=flat&logo=mysql)  
+![Pandas](https://img.shields.io/badge/-Pandas-e0bbe4?style=flat&logo=pandas)  
+![Python](https://img.shields.io/badge/-Python-ffccd5?style=flat&logo=python)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshi-222&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-222&layout=compact&theme=dark)
+![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshi-222&show_icons=true&theme=calm)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi-222&layout=compact&theme=calm)
 
 ---
 
 ### ✒️ Words I Live By
 
-> *"Some code is never meant to be deployed — and some love, never meant to last."*
+> *“In every messy dataset, there’s a hidden love story — you just have to listen.”*
 
 ---
 
 ### 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamshi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vamshisakinala)  
-[![GitHub](https://img.shields.io/badge/GitHub-Vamshi--222-white?style=flat&logo=github)](https://github.com/Vamshi-222)
+[![GitHub](https://img.shields.io/badge/GitHub-Vamshi--222-black?style=flat&logo=github)](https://github.com/Vamshi-222)
+
 
